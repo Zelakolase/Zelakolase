@@ -1,16 +1,21 @@
-### Hi there 👋
+## Personal Information
+- Name : Morad Abdelrasheed Mokhtar Ali Gill
+- Residence : Zagazig City, Al-sharqia Province, Arab Republic of Egypt
+- Birth Date : 21 Feb. 2005
+- Contact E-Mail : Morad_M_Ali@aol.com
 
-<!--
-**Zelakolase/Zelakolase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies and skills
+- Java
+- Bash
+- Swing
 
-Here are some ideas to get you started:
+## Current Maintained Projects
+- Anonybox : E2EE Mail service provider
+- SimplyWebServer (SWS) : Fast and easy web framework for *all* languages
+- EDS-MOE : Electronic Document System for schools and other teaching insitutions
+- SparkDB : ODM-like CSV to data structure in memory, a database-alike
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning Fields
+- Quantum Computing
+- Mathematics
+- Assembly (MASM)

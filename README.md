@@ -17,4 +17,4 @@ Morad is a computer scientist and developer who is interested in a wide range of
 ## Links
 - Neocities website: [https://zelakolase.neocities.org](https://zelakolase.neocities.org)
 - LinkedIn profile: [https://www.linkedin.com/in/0x250/](https://www.linkedin.com/in/0x250)
-- Google Schoar profile: [https://scholar.google.com/citations?user=pN176VYAAAAJ](https://scholar.google.com/citations?user=pN176VYAAAAJ)
+- Google Scholar profile: [https://scholar.google.com/citations?user=pN176VYAAAAJ](https://scholar.google.com/citations?user=pN176VYAAAAJ)

@@ -13,6 +13,7 @@ Morad is a computer scientist and developer who is interested in a wide range of
 | [Tools](https://github.com/Zelakolase/Tools) | My daily java classes to use | No | No |
 | [CycleBruteForce](https://github.com/Zelakolase/CycleBruteForce) | A supplementary source code for a research paper I wrote to optimally brute-force collatz conjecture | No | No 'Finished' |
 | [GCKit](https://github.com/Zelakolase/GCKit) | A research project to find an optimal clustering algorithm for Protein-Protein Interaction Networks | No | No 'Finished' |
+| [Simuconomy](https://github.com/Zelakolase/Simuconomy) | Simuconomy is a simple economic model that uses genetic variation and the economic system as a fitness function to make the economy more productive over time. The code is highly readable and maintainable. | No | No 'Finished' |
 
 ## Links
 - Neocities website: [https://zelakolase.neocities.org](https://zelakolase.neocities.org)

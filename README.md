@@ -1,5 +1,5 @@
 ## Introduction
-Morad is a computer science enthusiast and developer who is interested in a wide range of topics. These topics include Pure Mathematics, Marcoeconomics, Econometrics, Weapon Development, Philosophy, and many other topics. If you are interested in more information about my linux setup, my articles, or any other personal information, please head to [my neocities website](https://zelakolase.neocities.org).
+Morad is a computer science enthusiast and developer who is interested in a wide range of topics. These topics include Pure Mathematics, Marcoeconomics, Econometrics, Weapon Development, Philosophy, and many other topics!
 
 ## Projects
 | Project name | Project Description | Maintained? | Outdated? |

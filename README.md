@@ -16,6 +16,4 @@ Morad is a computer science enthusiast and developer who is interested in a wide
 | [Simuconomy](https://github.com/Zelakolase/Simuconomy) | Simuconomy is a simple economic model that uses genetic variation and the economic system as a fitness function to make the economy more productive over time. The code is highly readable and maintainable. | No | No 'Paused' |
 
 ## Links
-- Neocities website: [https://zelakolase.neocities.org](https://zelakolase.neocities.org)
 - LinkedIn profile: [https://www.linkedin.com/in/0x250/](https://www.linkedin.com/in/0x250)
-- Google Scholar profile: [https://scholar.google.com/citations?user=pN176VYAAAAJ](https://scholar.google.com/citations?user=pN176VYAAAAJ)
